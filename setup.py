@@ -46,7 +46,7 @@ setup(
         'enum34;python_version<"3.4"',
         'wrapt',
         'future',
-        'botocore>=1.11.3',
+        #'botocore>=1.11.3',
     ],
 
     keywords='aws xray sdk',
